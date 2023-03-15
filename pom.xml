@@ -16,6 +16,12 @@
 	<properties>
 		<java.version>17</java.version>
 	</properties>
+
+	<scm>
+		<connection>scm:git:git@github.com:crublef/spring-initializr.git</connection>
+		<developerConnection>scm:git:git@github.com:crublef/spring-initializr.git</developerConnection>
+	</scm>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
